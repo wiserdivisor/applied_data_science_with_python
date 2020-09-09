@@ -7,7 +7,11 @@ machine learning, information visualization, text analysis, and social network a
 through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data.
 
 Introduction to Data Science in Python (course 1), 
+
 Applied Plotting, Charting & Data Representation in Python (course 2), 
+
 and Applied Machine Learning in Python (course 3) should be taken in order 
+
 and prior to any other course in the specialization.
+
 After completing those, courses 4 and 5 can be taken in any order. All 5 are required to earn a certificate.
